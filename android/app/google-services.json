@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135462391870",
+    "project_id": "flutter-firebase-calismasi",
+    "storage_bucket": "flutter-firebase-calismasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135462391870:android:4c252aaafef636ef95816f",
+        "android_client_info": {
+          "package_name": "seckin.yekrek.flutter_firebase_calismasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135462391870-h87bfefvpe0re5n3h2vugm0ffvlk807v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVlsnIXkxuVZMJkfBGhSsecehvVEZBfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135462391870-h87bfefvpe0re5n3h2vugm0ffvlk807v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
